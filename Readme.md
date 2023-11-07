@@ -26,12 +26,11 @@ Follow these steps to get started with Pole Physics:
 
 ## License
 
-This project is licensed under [insert license name]. For more details, please see the [LICENSE](LICENSE) file.
+This project is licensed under BSD 3-Clause License. For more details, please see the [LICENSE](LICENSE) file.
 
 ## Acknowledgments
 
-- [List any resources, assets, or libraries used in the game]
-
+- Nothing Till Now
 ---
 
 Enjoy the game and have fun balancing the stick on the cart!
