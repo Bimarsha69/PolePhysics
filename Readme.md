@@ -21,9 +21,8 @@ To play the game, you can [insert instructions or a link to the game's website/d
 
 Follow these steps to get started with Pole Physics:
 
-1. [Installation instructions, if applicable]
-2. [How to launch the game]
-3. [Controls and gameplay tips]
+1. Use Mouse Or Finger To Control.
+2. Put Mobile in Landscape Mode If You Are In Mobile.
 
 ## License
 
