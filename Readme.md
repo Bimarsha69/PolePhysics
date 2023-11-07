@@ -2,7 +2,8 @@
 
 Pole Physics is a challenging and fun game that tests your balancing skills. In this game, your objective is to balance a stick on a cart for as long as possible. The longer you can maintain balance, the higher your score will be.
 
-![Pole Physics Screenshot](pole_physics_screenshot.png)
+![Pole Physics Screenshot]![image](https://github.com/Bimarsha69/PolePhysics/assets/116154292/44d8e6de-a6ab-49a5-800f-42a6da3dfc75)
+
 
 ## Gameplay
 
