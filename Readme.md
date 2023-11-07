@@ -15,8 +15,8 @@ Can you master the art of balance and achieve the highest score in Pole Physics?
 
 ## How to Play
 
-To play the game, you can [insert instructions or a link to the game's website/download here].
-
+-Just Fork This project and make your own.
+-Or Go To Here[https://bimarshathapa.com.np/PolePhysics/] To Play
 ## Getting Started
 
 Follow these steps to get started with Pole Physics:
